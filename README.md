@@ -1,6 +1,6 @@
 # Left hand mirror layout
 
-Have you wondered whether you can type all the alphebetical letters using a single hand sometimes? So you can then free your right for other activities such as using a mouse, flipping a book page, grabbing a cup of coffee, or even just taking a break from exhausting typing.
+Have you wondered whether you can type all the alphebetical letters using a single hand sometimes? So you can then free your right for other activities such as using a mouse, flipping a book page, grabbing a cup of coffee, or even just taking a break from exhausting typing. Here's the [Medium page](https://medium.com/@windmaomao/left-hand-typing-only-with-keyboard-layer-78c8302b113e).
 
 It could be easier than you think. Basically you just need to setup a what I refer as mirror keyboard layout like below. The layout is a mirror image of your regular layout.
 
