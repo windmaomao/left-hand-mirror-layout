@@ -16,3 +16,15 @@ A normal keyboard only supports one base layout, however there're keyboards that
 
 > Notice `MO` keys in the above picture. They are layer keys. 
 
+## Where to map the layer key
+
+There're two main locations to map the layer keys.
+
+- map the layer key to your left hand
+- map the layer key to your right hand
+
+If you map the layer key to your left hand, ex. using a thumb finger, you literally can start to type with your left hand only, which is really nice and fluid. And this could free your right hand entirely. 
+
+There's another way, you could also map the layer key to your right hand, ex. using a index finger, so it'll behave like a shift key sort of way. Though you still need your right hand, I found it quite effective as well.
+
+> As long as one of your hand is not doing the typing, that shall give some break to that hand.
